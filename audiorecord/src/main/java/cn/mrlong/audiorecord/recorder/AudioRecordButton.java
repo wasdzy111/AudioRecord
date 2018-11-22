@@ -106,7 +106,9 @@ public class AudioRecordButton extends AppCompatButton implements AudioManager.A
         this.normalBackground = normalBackgroundDrawable;
         this.recordingbackground = recordingBackgroundDrawable;
     }
-
+    public void setAudioFinishRecorderListener(AudioFinishRecorderListener listener) {
+        this.mListener = listener;
+    }
     // 获取音量大小的runnable
     private Runnable mGetVoiceLevelRunnable = new Runnable() {
         @Override
