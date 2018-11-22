@@ -3,7 +3,9 @@
 #### 项目介绍
 自定义一个Button,实现仿微信发语音界面！
 生成文件格式.amr(ios 也可以使用貌似)
-
+#### 上图片
+![输入图片说明](https://images.gitee.com/uploads/images/2018/1122/094129_5765cfcf_696384.png "TIM截图20181122094035.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2018/1122/094140_8b0cb2c0_696384.png "TIM截图20181122094048.png")
 #### 安装教程
 
 Step 1. Add it in your root build.gradle at the end of repositories:
