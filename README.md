@@ -7,6 +7,10 @@
 ![输入图片说明](https://images.gitee.com/uploads/images/2018/1122/094129_5765cfcf_696384.png "TIM截图20181122094035.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2018/1122/094140_8b0cb2c0_696384.png "TIM截图20181122094048.png")
 #### 安装教程
+Step 0. 重要的写前面
+~~~
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+~~~
 
 Step 1. Add it in your root build.gradle at the end of repositories:
 
